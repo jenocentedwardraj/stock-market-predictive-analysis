@@ -3,9 +3,10 @@
 This project analyzes historical stock price trends and performs short-term forecasting using time series models, specifically ARIMA. Data was sourced from Yahoo Finance and processed in a Jupyter Notebook.
 
 ## 📂 Files
-- `StockAnalysis.ipynb`: Jupyter notebook with data cleaning, analysis, visualization, and prediction.
-- `.ipynb_checkpoints/`: Auto-generated Jupyter checkpoint files (can be ignored).
-- `.gitignore`: Optional file to hide unnecessary folders from Git.
+- `StockAnalysis.ipynb`: Jupyter notebook with data cleaning, analysis, visualization, and prediction
+- `.ipynb_checkpoints/`: Auto-generated Jupyter checkpoint files (can be ignored)
+- `.gitignore`: Excludes temporary, cache, and environment files
+- `requirements.txt`: Python packages required to run the notebook
 
 ## 🧠 Key Techniques
 - Time series analysis with ARIMA
